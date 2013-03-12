@@ -9,19 +9,27 @@ To deliver good work it is important to understand each other. On this foundatio
 Enter the world of style guides and see how they can improve this cooperation.
 
 --
-
+- Topic
+	- Friendship
+	- History of Style Guides
+	- What are Style Guides and how can we use them?
 - Friendship
-	- Creating projects together is like working in teams
-	- teams are friendships
+	- Creating projects together is like working as friends in a team
+	- teams need friendships
 		- Pokémon (http://www.ligapokemon.com/2009/07/primeira-temporada-liga-indigo.html)
+			- Team Rocket (http://www.zerochan.net/802097)
+				- Mission: obtaining powerful and rare Pokémon, someday taking over the world.
 		- A-Team (http://www.clubhaus80s.com/blog/team)
+			- run from the Army after being branded for a "crime they didn't commit"
 	- Sometimes friendships are hard
 	- It's hard to work in teams
 	- Who doesn't know sentences like
 		- "Are you even listening"
 		- "You never admit you're wrong"
 		- http://www.plyrics.com/lyrics/confide/mychoiceofwords.html
-	- Kickstarter Campign: http://www.kickstarter.com/projects/confide/confide-new-album
+	- In oder to become friends within a team there are little helpers
+	- One of them are style guides
+	- To understand them, let's look a bit back in hisory
 - History
 	- Corporate Identiy
 		- Religion:
@@ -43,21 +51,18 @@ Enter the world of style guides and see how they can improve this cooperation.
 		- http://en.wikipedia.org/wiki/Style_guide
 		- Lufthansa Styleguide from 1962 - Ulmer Studie
 			- General usage of the logo and word mark for all products
-
 - Why do we need them?
-	- to get people to recognize the brand
 - And what's the value for us as designers and developers?
-	- To improve our performance
+	- Lufthansa had a lot of freelancers
+	- New people on teams had it easier
+
 	- To keep the friendship
 		- removing questions like
 			- "Are you even listening"
+				- better communication with Style Guides
 			- "You never admit you're wrong"
 	- to work faster together
 		- Faster prototyping
-	- Design in the browser
-	- Make a website Future Proof
-	- Maintainance
-		- Using style guides to communicate changes with customers
 
 * Game
 	* All stand up
@@ -66,9 +71,15 @@ Enter the world of style guides and see how they can improve this cooperation.
 	* Who does neither?
 	* Everyone else knows how they have to fight their inner dev or designer to accept the opinion of the other "soul"
 
+- Fighting something is always bad
+- Fighting has a bad influence on what you do
+- But struggeling with other peoples opinion is normal
+- Because we are all different
+- Find a consensus together
 - When working in a team…
-	- Because we are all different and we prefere different style it's important to create guidelines together
+	- it's important to create guidelines together
 	- Together… because it is hard to change your own opinion
+	- Stanford Uni study (http://piee.stanford.edu/cgi-bin/docs/behavior/workshop/2008/presentations/03-02_New_Research_on_Behavior_Change.pdf)
 	- How to change behavior
 		- Biological reasons and logical thinking.
 		- Choice and models of agency.
@@ -81,11 +92,13 @@ Enter the world of style guides and see how they can improve this cooperation.
 		* Who builds Websites?
 		* Who builds Webapps?
 		* Who works on their companies own project?
+		* Who does style guides?
 		* Conclusion: For websites is sometimes hard to develop style guides because of budgeting reasons
 			* Large scale web-apps and projects demand a style guide in order to keep everyone in the team on board
 
 	- Examples
 		- DGU
+			- German association for emergency surgery
 	- Building separate components
 		- We know this from jQuery plugins for examples
 		- Component libraries
@@ -97,9 +110,17 @@ Enter the world of style guides and see how they can improve this cooperation.
 
 	- Live coding: build an example component
 
+- Stephen Hay - http://www.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012
+- Design in the browser
+	- Make a website Future Proof
+	- Maintainance
+		- Using style guides to communicate changes with customers
+
 - When we stick to guide lines we set our selfs we become better in what we do
+	- And in connection with team member
 - We don't have to fight over decisions if there are already good decisions made for us
-	- Decisions we influenced
+	- Especially if decisions are influenced by us
+
 
 - And so… you can become a great team as the A-Team.
 
