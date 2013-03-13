@@ -182,7 +182,7 @@ kbd,
 pre,
 samp {
   font-family: monospace, serif;
-  _font-family: "courier new", monospace;
+  _font-family: 'courier new', monospace;
   font-size: 1em; }
 
 /**
@@ -301,7 +301,7 @@ form {
  * Define consistent border, margin, and padding.
  */
 fieldset {
-  border: 1px solid silver;
+  border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
@@ -490,7 +490,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #ccc;
   margin: 1em 0;
   padding: 0; }
 
@@ -628,7 +628,7 @@ textarea {
 @media print {
   * {
     background: transparent !important;
-    color: black !important;
+    color: #000 !important;
     /* Black prints faster: h5bp.com/s */
     box-shadow: none !important;
     text-shadow: none !important; }
@@ -653,7 +653,7 @@ textarea {
 
   pre,
   blockquote {
-    border: 1px solid #999999;
+    border: 1px solid #999;
     page-break-inside: avoid; }
 
   thead {
@@ -680,25 +680,7 @@ textarea {
   h3 {
     page-break-after: avoid; } }
 .accordion h2 {
-  margin: 0;
-  text-align: center; }
-  .accordion h2 > a {
-    display: block;
-    background: #ddd;
-    padding: 0.5rem;
-    color: #000;
-    text-decoration: none;
-    border-bottom: 1px solid #888888; }
-    .accordion h2 > a:visited {
-      color: #000; }
-    .accordion h2 > a:hover {
-      background: #bbb; }
-
-.accordion-content {
-  display: none; }
-
-.accordion-item:target .accordion-content {
-  display: block; }
+  margin: 0; }
 
 html {
   width: 400px;

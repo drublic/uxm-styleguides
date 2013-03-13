@@ -51,6 +51,7 @@ Enter the world of style guides and see how they can improve this cooperation.
 		- http://en.wikipedia.org/wiki/Style_guide
 		- Lufthansa Styleguide from 1962 - Ulmer Studie
 			- General usage of the logo and word mark for all products
+			- From PDF to online -> open style guide
 - Why do we need them?
 - And what's the value for us as designers and developers?
 	- Lufthansa had a lot of freelancers
@@ -61,10 +62,10 @@ Enter the world of style guides and see how they can improve this cooperation.
 			- "Are you even listening"
 				- better communication with Style Guides
 			- "You never admit you're wrong"
-	- to work faster together
-		- Faster prototyping
 
 - Examples
+	- Android style guide
+
 	- DGU
 		- German association for emergency surgery
 
@@ -83,6 +84,7 @@ Enter the world of style guides and see how they can improve this cooperation.
 - Find a consensus together
 - When working in a team…
 	- it's important to create guidelines together
+	- Because we are all experts
 	- Together… because it is hard to change your own opinion
 	- Stanford Uni study (http://piee.stanford.edu/cgi-bin/docs/behavior/workshop/2008/presentations/03-02_New_Research_on_Behavior_Change.pdf)
 	- How to change behavior
@@ -90,6 +92,7 @@ Enter the world of style guides and see how they can improve this cooperation.
 		- Choice and models of agency.
 		- Social belonging.
 		- Goals and feedback.
+	- Learning from each other to become better
 - What are Style Guides for developers?
 	- Coding Guidelines / Coding style
 		- Why?
@@ -109,13 +112,18 @@ Enter the world of style guides and see how they can improve this cooperation.
 			* Large scale web-apps and projects demand a style guide in order to keep everyone in the team on board
 
 	- Building separate components
+		- Don't think about what the context is but what a widget does
 		- We know this from jQuery plugins for examples
 		- Component libraries
+			- are User Interface Libraries
+				- For forms, buttons, widgets on a site
 			- Pros
 				- You can build stuff pretty fast
 			- Cons
-				- Do a lot more than you need
+				- Might do a lot more than you need
 			- Bootstrap
+				- Component: menu
+		- You can share code for components throughout style guides and the website
 
 	- Live coding: build an example component
 
@@ -130,6 +138,6 @@ Enter the world of style guides and see how they can improve this cooperation.
 - We don't have to fight over decisions if there are already good decisions made for us
 	- Especially if decisions are influenced by us
 
-
 - And so… you can become a great team as the A-Team.
+- Being friends rather than discussing and fighting
 

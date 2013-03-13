@@ -11,23 +11,8 @@
 	// Headlines
 	h2 {
 		margin: 0;
-		text-align: center;
 
 		> a {
-			display: block;
-			background: #ddd;
-			padding: 0.5rem;
-			color: #000;
-			text-decoration: none;
-			border-bottom: 1px solid #888;
-
-			&:visited {
-				color: #000;
-			}
-
-			&:hover {
-				background: #bbb;
-			}
 		}
 	}
 }
@@ -35,15 +20,18 @@
 
 // Content
 .accordion-content {
-	display: none;
 }
 
 // If active
-.accordion-item:target {
-	.accordion-content {
-		display: block;
-	}
-}
+// .accordion-item:target {
+// 	.accordion-content {
+// 	}
+// }
+
+
+
+
+
 
 
 // Misc
