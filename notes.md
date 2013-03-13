@@ -64,6 +64,11 @@ Enter the world of style guides and see how they can improve this cooperation.
 	- to work faster together
 		- Faster prototyping
 
+- Examples
+	- DGU
+		- German association for emergency surgery
+
+
 * Game
 	* All stand up
 	* Who does only design
@@ -87,6 +92,13 @@ Enter the world of style guides and see how they can improve this cooperation.
 		- Goals and feedback.
 - What are Style Guides for developers?
 	- Coding Guidelines / Coding style
+		- Why?
+			- Maintenance
+			- Improve readbility and understanding.
+		- How?
+			- Best practices.
+			- Use resources.
+		- Maybe look at a style guide?
 
 	* Game
 		* Who builds Websites?
@@ -96,9 +108,6 @@ Enter the world of style guides and see how they can improve this cooperation.
 		* Conclusion: For websites is sometimes hard to develop style guides because of budgeting reasons
 			* Large scale web-apps and projects demand a style guide in order to keep everyone in the team on board
 
-	- Examples
-		- DGU
-			- German association for emergency surgery
 	- Building separate components
 		- We know this from jQuery plugins for examples
 		- Component libraries
@@ -116,7 +125,7 @@ Enter the world of style guides and see how they can improve this cooperation.
 	- Maintainance
 		- Using style guides to communicate changes with customers
 
-- When we stick to guide lines we set our selfs we become better in what we do
+- When we stick to guide lines we set our selfs, we become better in what we do
 	- And in connection with team member
 - We don't have to fight over decisions if there are already good decisions made for us
 	- Especially if decisions are influenced by us

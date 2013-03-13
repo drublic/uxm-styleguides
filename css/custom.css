@@ -281,14 +281,6 @@ th, td {
 	font: .4em sans-serif;
 	color: #aaa;
 	padding: 20px 0 20px 60px;
-	text-shadow: 0 1px 0 #fff,
-	             1px 0 0 #fff,
-	             0 -1px 0 #fff,
-	             -1px 0 0 #fff,
-	             0 2px 0 #fff,
-	             2px 0 0 #fff,
-	             0 -2px 0 #fff,
-	             -2px 0 0 #fff;
 
 	background: url(../assets/about/drublic.png) no-repeat 0 0;
 	background-size: 50px 50px;
@@ -302,3 +294,10 @@ th, td {
 .reveal .pesentation-details a {
 	color: #888;
 }
+
+
+ .footer-alignment {
+ 	position: absolute;
+ 	right: 0;
+ 	bottom: -16rem;
+ }

@@ -95,30 +95,41 @@
 		</script>
 	</section>
 
-
-	<section data-markdown>
+	<section data-markdown data-state="state-rocket">
 		<script type="text/template">
-			![Pokémon](assets/pokemon.jpg)
-
-			<small>[&copy; ~](http://www.ligapokemon.com/2009/07/primeira-temporada-liga-indigo.html)</small>
+			<small class="footer-alignment">[&copy; ~](http://www.zerochan.net/802097)</small>
 		</script>
 	</section>
+	<style>
+		.state-rocket body {
+			background: url(assets/team-rocket.jpg) no-repeat 50% 50%;
+			background-size: auto 100%;
+		}
+	</style>
 
-	<section data-markdown>
+	<section data-markdown data-state="state-pokemon">
 		<script type="text/template">
-			![Team Rocket](assets/team-rocket.jpg)
-
-			<small>[&copy; ~](http://www.zerochan.net/802097)</small>
+			<small class="footer-alignment">[&copy; ~](http://www.ligapokemon.com/2009/07/primeira-temporada-liga-indigo.html)</small>
 		</script>
 	</section>
+	<style>
+		.state-pokemon body {
+			background: url(assets/pokemon.jpg) no-repeat 50% 50%;
+			background-size: 100% auto;
+		}
+	</style>
 
-	<section data-markdown>
+	<section data-markdown data-state="state-ateam">
 		<script type="text/template">
-			![A-Team](assets/a-team.jpg)
-
-			[&copy; ~](http://www.clubhaus80s.com/blog/team)
+			<small class="footer-alignment">[&copy; ~](http://www.clubhaus80s.com/blog/team)</small>
 		</script>
 	</section>
+	<style>
+		.state-ateam body {
+			background: url(assets/a-team.jpg) no-repeat 50% 50%;
+			background-size: 100% auto;
+		}
+	</style>
 
 	<section data-markdown>
 		<script type="text/template">
@@ -128,13 +139,13 @@
 
 	<section data-markdown>
 		<script type="text/template">
-			> "Are you even listening"
+			> Are you even listening?
 		</script>
 	</section>
 
 	<section data-markdown>
 		<script type="text/template">
-			> "You never admit you're wrong"
+			> You never admit you’re wrong!
 		</script>
 	</section>
 
@@ -164,13 +175,17 @@
 			background: url(assets/cross.svg) no-repeat 10% 50%;
 			background-size: auto 70%;
 		}
+
+		.state-christians h1 {
+			text-shadow: 0 0 5px rgba(255,255,255,0.7);
+		}
 	</style>
 
 	<section data-markdown data-state="state-judaism">
 		<script type="text/template">
 			# Judaism
 
-			<small>[&copy; ~](http://en.wikipedia.org/wiki/Star_of_David)</small>
+			<small class="footer-alignment">[&copy; ~](http://en.wikipedia.org/wiki/Star_of_David)</small>
 		</script>
 	</section>
 	<style>
@@ -178,10 +193,13 @@
 			background: url(assets/star-of-david.svg) no-repeat 50% 50%;
 			background-size: 60%;
 		}
+		.state-judaism .footer-alignment {
+			bottom: -14rem;
+		}
 	</style>
 
 	<section data-markdown data-state="state-300">
-		<small><a href="http://www.filmoa.com/movie/300">&copy; ~</a></small>
+		<small class="footer-alignment"><a href="http://www.filmoa.com/movie/300">&copy; ~</a></small>
 	</section>
 	<style>
 		.state-300 body {
@@ -192,7 +210,7 @@
 
 	<section data-markdown data-state="state-caduceus">
 		<script type="text/template">
-			<small>[&copy; ~](http://en.wikipedia.org/wiki/File:Caduceus.svg)</small>
+			<small class="footer-alignment">[&copy; ~](http://en.wikipedia.org/wiki/File:Caduceus.svg)</small>
 		</script>
 	</section>
 	<style>
@@ -204,7 +222,7 @@
 
 	<section data-markdown data-state="state-tm">
 		<script type="text/template">
-			<small>[&copy; ~](http://en.wikipedia.org/wiki/Trademark)</small>
+			<small class="footer-alignment">[&copy; ~](http://en.wikipedia.org/wiki/Trademark)</small>
 		</script>
 	</section>
 	<style>
@@ -216,47 +234,54 @@
 
 	<section data-markdown>
 		<script type="text/template">
-		- Publishers establish rules for language use, such as spelling, italics and punctuation
-			- consistency
-		- In univerities: Schoolars are asked to stick to guide lines when publishing something
-		- http://en.wikipedia.org/wiki/Style_guide
-		- Lufthansa Styleguide from 1962 - Ulmer Studie
-			- General usage of the logo and word mark for all products
+			# Publishers
 		</script>
 	</section>
-
 
 	<section data-markdown>
 		<script type="text/template">
-			# Practical
+			# Lufthansa
 		</script>
 	</section>
+
+	<section data-markdown>
+		<script type="text/template">
+			## Why do we need them?
+
+			Keep the friendship.
+
+			Work faster.
+		</script>
+	</section>
+
+	<section data-markdown>
+		<script type="text/template">
+			# DGU
+		</script>
+	</section>
+
 </section>
 
 <section>
 	<section data-markdown>
 		<script type="text/template">
-			# Code Style
+			## Don’t fight
+
+			Fightling has a bad influence on projects.
+
+			Struggeling with someone else’s opinion is normal.
+
+			Find a consensus together.
 		</script>
 	</section>
 
 	<section data-markdown>
 		<script type="text/template">
-			## Everyone’s code is different
-		</script>
-	</section>
+			## Work in a team
 
-	<section data-markdown>
-		<script type="text/template">
-			## Changing behavior is hard
-		</script>
-	</section>
+			Create guidelines together.
 
-	<section data-markdown>
-		<script type="text/template">
-			## Don’t force people
-
-			To change behavior you need to understand
+			Because change is hard.
 		</script>
 	</section>
 
@@ -274,12 +299,6 @@
 
 			<br>
 			[~](http://piee.stanford.edu/cgi-bin/docs/behavior/workshop/2008/presentations/03-02_New_Research_on_Behavior_Change.pdf)
-		</script>
-	</section>
-
-	<section data-markdown>
-		<script type="text/template">
-			## Create code-conventions together
 		</script>
 	</section>
 </section>
@@ -312,41 +331,50 @@
 			Use resources.
 		</script>
 	</section>
-
-	<section data-markdown>
-		<script type="text/template">
-			## 2013
-
-			is the year to focus on your coding conventions.
-		</script>
-	</section>
 </section>
 
 <section>
 	<section data-markdown>
 		<script type="text/template">
-			# Prototyping
+			## Components
+
+			Like jQuery plugins.
+
+			Build Component Libraries
+
+			Bootstrap
 		</script>
 	</section>
 
 	<section data-markdown>
 		<script type="text/template">
-			# Design in the browser
+			## Design in the browser
+
+			Future prove websites.
+
+			Better Maintainance.
+
+			Easier communication.
 		</script>
 	</section>
 </section>
 
 <section>
-	<section data-markdown>
+	<section data-markdown data-state="state-ateam">
 		<script type="text/template">
-			# Result
-
-			Future prove your websites
+			# We can be a team
 		</script>
 	</section>
-</section>
+	<style>
+		.state-ateam h1 {
+			text-shadow: 1px 0 0 rgba(255,255,255,0.7),
+			             0 1px 0 rgba(255,255,255,0.7),
+			             0 -1px 0 rgba(255,255,255,0.7),
+			             -1px 0 0 rgba(255,255,255,0.7),
+			             0 0 3px #fff;
+		}
+	</style>
 
-<section>
 	<section data-markdown>
 		<h1 class="inverted">Questions?</h1>
 
@@ -360,7 +388,7 @@
 
 			<!-- Pesentation Details -->
 			<div class="pesentation-details">
-				<p>Writing Awesome Code &bull; TakeOff Conference 2013 &bull; Hans Chr. Reinl /
+				<p>Be Friends With Your Designer And Style Guides &bull; UX Munich 2013 &bull; Hans Chr. Reinl /
 					<a href="https://twitter.com/drublic" title="Follow me on Twitter">@drublic</a></p>
 			</div>
 
