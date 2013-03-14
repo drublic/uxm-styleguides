@@ -7,7 +7,3 @@ DGU Styleguide: http://gebruederheitz.de/kunden/dgu/styleguide/
 Android Styleguide:
 Accodion Example: http://localhost/uxm-styleguides/assets/examples/
 
-
-
-# Bilder
-- Lufthansa Logo -> http://en.wikipedia.org/wiki/File:Lufthansa_Logo.svg
