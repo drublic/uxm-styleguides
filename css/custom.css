@@ -296,8 +296,48 @@ th, td {
 }
 
 
- .footer-alignment {
- 	position: absolute;
- 	right: 0;
- 	bottom: -16rem;
- }
+.footer-alignment {
+	position: absolute;
+	right: 0;
+	bottom: -16rem;
+}
+
+.reveal small a:not(.image),
+.reveal small a:not(.image):visited {
+	color: #aaa;
+}
+
+
+
+.state-publishers h1,
+.state-lufthansa h1,
+.state-questions h1,
+.state-ateam h1 {
+	text-shadow: 1px 0 0 rgba(255,255,255,0.7),
+	             0 1px 0 rgba(255,255,255,0.7),
+	             0 -1px 0 rgba(255,255,255,0.7),
+	             -1px 0 0 rgba(255,255,255,0.7),
+	             2px 0 0 rgba(255,255,255,0.7),
+	             0 2px 0 rgba(255,255,255,0.7),
+	             0 -2px 0 rgba(255,255,255,0.7),
+	             -2px 0 0 rgba(255,255,255,0.7),
+	             3px 0 0 rgba(255,255,255,0.7),
+	             0 3px 0 rgba(255,255,255,0.7),
+	             0 -3px 0 rgba(255,255,255,0.7),
+	             -3px 0 0 rgba(255,255,255,0.7),
+	             4px 0 0 rgba(255,255,255,0.7),
+	             0 4px 0 rgba(255,255,255,0.7),
+	             0 -4px 0 rgba(255,255,255,0.7),
+	             -4px 0 0 rgba(255,255,255,0.7),
+	             0 0 10px #fff,
+	             0 0 15px #fff,
+	             0 0 20px #000,
+	             0 0 30px #000;
+}
+
+
+.state-publishers .footer-alignment,
+.state-lufthansa .footer-alignment,
+.state-judaism .footer-alignment {
+	bottom: -14rem;
+}

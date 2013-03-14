@@ -10,9 +10,4 @@ Accodion Example: http://localhost/uxm-styleguides/assets/examples/
 
 
 # Bilder
-
-- For-ever-alone-guy -> Friendship
-- Publishers
-- Lufthansa Logo
-- Lufthansa Flugzeug
-- Kittens
+- Lufthansa Logo -> http://en.wikipedia.org/wiki/File:Lufthansa_Logo.svg
