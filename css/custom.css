@@ -312,7 +312,9 @@ th, td {
 .state-publishers h1,
 .state-lufthansa h1,
 .state-questions h1,
-.state-ateam h1 {
+.state-ateam h1,
+.state-christians h1,
+.state-judaism h1 {
 	text-shadow: 1px 0 0 rgba(255,255,255,0.7),
 	             0 1px 0 rgba(255,255,255,0.7),
 	             0 -1px 0 rgba(255,255,255,0.7),

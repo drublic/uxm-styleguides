@@ -64,8 +64,6 @@ Enter the world of style guides and see how they can improve this cooperation.
 			- "You never admit you're wrong"
 
 - Examples
-	- Android style guide
-
 	- DGU
 		- German association for emergency surgery
 
@@ -125,7 +123,6 @@ Enter the world of style guides and see how they can improve this cooperation.
 				- Component: menu
 		- You can share code for components throughout style guides and the website
 
-	- Live coding: build an example component
 
 - Stephen Hay - http://www.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012
 - Design in the browser
