@@ -680,7 +680,18 @@ textarea {
   h3 {
     page-break-after: avoid; } }
 .accordion h2 {
-  margin: 0; }
+  margin: 0;
+  text-align: center; }
+  .accordion h2 > a {
+    display: block;
+    background: #ddd;
+    text-decoration: none; }
+
+.accordion-content {
+  display: none; }
+
+.accordion-item:target .accordion-content {
+  display: block; }
 
 html {
   width: 400px;
